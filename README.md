@@ -3,6 +3,6 @@ Ever needed to measure something but didn't have a ruler on hand? Now you can me
 
 ![](ARRuler.gif)
 
-*Note - the preview has debug mode enabled to show where ARKit is detecting a plane (if you were wondering what all of those yellow dots where) :)
+*Note - the preview has debug mode enabled to show where ARKit is detecting a plane (if you were wondering what all of those yellow dots were) :)
 
 This app is inspired by the projects on The App Brewery's Complete App Development Bootcamp. Check out the full course at www.appbrewery.co
